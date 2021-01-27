@@ -1,0 +1,6 @@
+framework module Pods_WenderStock {
+  umbrella header "Pods-WenderStock-umbrella.h"
+
+  export *
+  module * { export * }
+}
